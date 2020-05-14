@@ -16,13 +16,14 @@ img {
 
 #nose1 {
     position: absolute;
-    padding-top: 260;
-    left: 175px;
+    padding-top: 260px;
+    left: 170px;
+    width: 70px
 }
 
 #mouth2 {
     position: absolute;
-    top: 355px;
+    top: 340px;
     width: 100px;
     height: auto;
     left: 150px;
@@ -41,4 +42,11 @@ img {
     left: 4px;
     top: 80px;
     z-index: 1;
+}
+
+#mustage {
+    position: absolute;
+    left: 130px;
+    top: 300px;
+    width: 150px;
 }
